@@ -1,0 +1,5 @@
+../Src/uart.c:18:5:__io_putchar	16	static
+../Src/uart.c:24:6:uart2_tx_int	8	static
+../Src/uart.c:55:13:uart2_write	16	static
+../Src/uart.c:63:17:compute_uart_bd	16	static
+../Src/uart.c:68:13:uart_set_bd	16	static
